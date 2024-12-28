@@ -1,0 +1,27 @@
+{
+  "name": "duc-the",
+  "version": "1.0.0",
+  "description": "tuhocjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theahihi/hocnodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "nguyenducthe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theahihi/hocnodejs/issues"
+  },
+  "homepage": "https://github.com/theahihi/hocnodejs#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
